@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Data Structures, Computational Structures & Principles of Marketing**
 
-- This is my website from scratch [Portfolio Website](schmidtjoseph.com)
+- This is my website from scratch [Portfolio Website](schmidtyjoseph.com)
 
 - 📝 I regularly write articles on [https://unfspinnaker.com/](https://unfspinnaker.com/)
 
 - 📫 How to reach me **www.linkedin.com/in/schmidtyj**
 
-- 📄 Know about my experiences [schmidtjoseph.com](schmidtjoseph.com)
+- 📄 Know about my experiences [schmidtjoseph.com](schmidtyjoseph.com)
 
 - ⚡ Fun fact **I love Soccer & Music**
 
