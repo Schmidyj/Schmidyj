@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/schmidtyj**
 
-- 📄 Know about my experiences [schmidtjoseph.com](schmidtyjoseph.com)
+- 📄 Know about my experiences [schmidtyjoseph.com](schmidtyjoseph.com)
 
 - ⚡ Fun fact **I love Soccer & Music**
 
