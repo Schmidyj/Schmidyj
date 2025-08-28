@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schmidyj&label=Profile%20views&color=0e75b6&style=flat" alt="schmidyj" /> </p>
 
-- 🔭 I’m currently working on **Playpal (AI Playlist app)**
+- 🔭 I’m currently working on **Playpal (AI Playlist )**
 
 - 🌱 I’m currently learning **Data Structures, Computational Structures & Principles of Marketing**
 
